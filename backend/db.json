@@ -1,0 +1,64 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Пройти інтерв’ю",
+      "description": "Онлайн зустріч на 10:00",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Завершити тестове",
+      "description": "Реалізувати CRUD в ToDo",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "title": "Почитати документацію React",
+      "description": "Hooks, Redux, Router",
+      "completed": true
+    },
+    {
+      "id": 4,
+      "title": "Купити продукти",
+      "description": "Молоко, яйця, хліб",
+      "completed": false
+    },
+    {
+      "id": 5,
+      "title": "Зателефонувати мамі",
+      "description": "Після обіду",
+      "completed": true
+    },
+    {
+      "id": 6,
+      "title": "Перевірити пошту",
+      "description": "Очистити вхідні",
+      "completed": false
+    },
+    {
+      "id": 7,
+      "title": "Прогулянка на свіжому повітрі",
+      "description": "30 хвилин біля дому",
+      "completed": false
+    },
+    {
+      "id": 8,
+      "title": "Почитати книгу",
+      "description": "Продовжити “Чистий код”",
+      "completed": false
+    },
+    {
+      "id": 9,
+      "title": "Оновити резюме",
+      "description": "Додати останній проект",
+      "completed": false
+    },
+    {
+      "id": 10,
+      "title": "Відправити відгук",
+      "description": "На вакансію в LinkedIn",
+      "completed": true
+    }
+  ]
+}
